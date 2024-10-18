@@ -35,7 +35,7 @@ pip install moviepy
 Clone this repository or download the script to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/video-duration-calculator.git
+git clone https://github.com/Tawfik-Tarek/calc-videos-total-time.git
 ```
 
 ### Adjust the Folder Path
