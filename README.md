@@ -49,7 +49,7 @@ folder_path = r"D:\crash_courses\react"  # Adjust to your folder path
 Execute the script using Python:
 
 ```bash
-python video_duration_calculator.py
+python calc_videos_time.py
 ```
 
 ### View the Output
